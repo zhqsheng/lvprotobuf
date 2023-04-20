@@ -1,0 +1,21 @@
+{
+  "name": "lvprotobuf",
+  "version": "0.0.1",
+  "description": "lv protobuf",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protobuf"
+  ],
+  "author": "zhqsh",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "webpack": "^5.79.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "browser": {}
+}
